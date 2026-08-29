@@ -1,0 +1,7 @@
+# Verified working set (Python 3.11). Pinned so runs are reproducible across
+# machines -- seeding only guarantees reproducibility for a fixed library stack.
+tensorflow==2.15.0
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+matplotlib>=3.8
