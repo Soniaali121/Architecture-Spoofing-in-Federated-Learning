@@ -1,3 +1,9 @@
+
+## This is our Master's dissertation project, which we co-authored as a team of three. Because our main contribution repository is currently private, we have decided to submit our work individually for the time being. We plan to make the primary repository public in the near future.
+
+
+
+
 # Architecture Spoofing Attacks in Federated Learning
 
 MSc AI group project. In model-heterogeneous / clustered Federated Learning (CFL),
